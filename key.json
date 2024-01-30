@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "csox297-researchdatacollection",
+  "private_key_id": "24bba72ebf479a414148b08a543c501c5eebbd7b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXIZjQZ8nCpBzI\nA+6XLEsxBmZEsTZXadqNxBn1uTMW17XtRLFIpZ1aNVhILqf8AUxwQmYX/SJKYTuI\nEbiaHJhOUm7Y9CFupvJ1SzCuWyOAtPC9NzcbZ9ntCq9aGGOww5Lelg+34bw7sbjw\n0I/0QfsjaZqYA0WLicYZYcYSckgsEDhiibwEr5SaoTEMf0o36MRVyiASfEvze4Qa\n4cndJdCDDV+cvVf/goCs+3j3eimX0mvh+M8PGZzwU/sKrruqc7nLb3F+fw/wusDe\nC+Z/UqC+/K0nWJbNFYv0XxWLCwAdgg/+r/yCCBl2PDWhkgRqCF2FPA3LDN/zRoKB\nngcC/LRZAgMBAAECggEABLwyE2A9ciHPml1vyncInqcf6CIoaosjatxmn+B4LegI\nkpTg/BLdIEetTkVsoCDdMFldyuhg8VcrisatFANOHOc2lmLlO3zEOG2zwBq0cNhK\ntjd5aIqEIvIJwwdnZlQfrvOJnAgFbyDty6sjiAJNx01DQFZOGRCqwhNDW1OVoBae\n+HL5gKrPT96zklcwz5o9QNf7ytAAxoG1VTAU9wTkzsNKpRs8IzTPnPeVBnN6IzBv\nQY/K5eejTcpo6BOlYkarHEPBkGbZaousJDGij+dOjw5nhiHH5LJzXrl+YXnyg/Jl\no8P1VVd+uWR1zPEAgpxbOv+ErcY+9Z+ob/BLJ8ouGwKBgQDz1j1Wo6kdd+5wYW5h\np3COxgt3qUxdW2e7Jq0zSwqoenDFSjseiw57jjeZzmjW3zCfqUgvs+mUspruM60L\ndNdY5SfXL82mowKlOEztkHrIFPS4l+hpqgNnIsur86RLE7r3BYJZL5hbQvEsH+oV\ntV7AwYJ3iPfKz0Ewd5qnuMvSSwKBgQDh3MpodaUgf5nqz0/iH5cGmyZGqUpFSUic\nVrdbMG8hWclXbzD9ICoMFLQUCl1xILSHzrtd1blbT0EiZ6KSUdG6ceIe2Waj4yIG\nMoTk9fcWcqrE/fKcrjwafotRo2kxdpUJJlOwC+w56qzgnf9YR7hIIyjUO1oTp8Vr\nqpUO4ZoNawKBgQDmKeaAb7/kpx6VSgLNfyYKPvr4GwCQZwWFbT60WjNXUSw9rpIb\nhJtJGbd2IZZorQjSzRHspWDpEaaZDoJbfBECQlzXDLKMhvaqSnijDmw3jUBrNkkV\n5HuN0RR73WHJ1Hf5UGP4F6szCf9o7T8i+q7UOFUUzF9KO1SHkX6UryUF/QKBgQDW\n9G6eY/i3qTkvRAZeynnNi7Mt5MgOkOROBimS29GoB++bCvOws//QZ5PKzuKHW/z0\nk0e20kUKJa9zsvYCE2Rq8R+nBHiu2Of0xfe8gGqcLp1fxeA0RY5mGLE3DTJ8JMNK\nZfOXxIEZzcKiMzxlJDy6Stv8wE/GDRHSmhIqi4M16QKBgDfmxp6/HQmDdzGz4Nxr\n+zhelpmg6JI1+EdGEKCI6lIFPdQT3TpsnQjMR2mecMe0RcKfZxwd4RXJArafZH5c\nWXyergNWwPhI8k2J3U2oo16L5RQnRStxfY9M6NXa/i76BotA0dUWg0mqWrij5bf4\n3YIog++3Oe3EqETP22ihyu86\n-----END PRIVATE KEY-----\n",
+  "client_email": "cs-research-ox-297@csox297-researchdatacollection.iam.gserviceaccount.com",
+  "client_id": "109267162395846431196",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cs-research-ox-297%40csox297-researchdatacollection.iam.gserviceaccount.com"
+}
